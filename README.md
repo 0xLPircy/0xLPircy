@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L-Pircy
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning CSS and JavaScript
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me email or linkedin
 
