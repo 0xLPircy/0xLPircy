@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @L-Pircy
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on mltiple web dev projects
+- 🌱 I’m currently learning React and Nextjs
+- 💞️ I’m looking to collaborate on multiple web dev projects
 - 📫 How to reach me email or linkedin
 
 <!---
