@@ -1,7 +1,7 @@
 <h1 align="center">Gm! I'm Taveesha Agarwal</h1>
 <h3 align="center">A passionate Developer who is enthusiastic about Web and Blockchain Development</h3>
 
-- I’m currently learning **Solidity, Node and ExpressJS**
+- I’m currently learning **Solidity and ExpressJS**
 - 📫 Reach me at **taveesha.agarwal@gmail.com**
 - 📄 Resume [https://drive.google.com/drive/folders/1qJVNCF6XYHeERhb1hJe86c-AcqvBJwH_?usp=sharing](https://drive.google.com/drive/folders/1qJVNCF6XYHeERhb1hJe86c-AcqvBJwH_?usp=sharing)
 
