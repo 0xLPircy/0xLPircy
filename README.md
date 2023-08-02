@@ -69,7 +69,5 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-pircy&theme=react&show_icons=true&hide_border=true&layout=compact" alt="l-pircy" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-pircy&theme=react&hide_border=true" alt="l-pircy" /></p>
 
