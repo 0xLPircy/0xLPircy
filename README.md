@@ -64,10 +64,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>     
-  
-
-
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-pircy&theme=react&hide_border=true" alt="l-pircy" /></p>
-
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Pircy&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
+</p>
