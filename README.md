@@ -239,4 +239,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlpircy&theme=react&exclude_repo=google-maps-frontback&show_icons=true&hide_border=false&layout=compact" alt="0xlpircy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xlpircy&theme=react&hide_border=false" alt="0xlpircy" /></p>
