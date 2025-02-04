@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/0xlpircy" target="blank"><img src="https://img.shields.io/twitter/follow/0xlpircy?logo=twitter&style=for-the-badge" alt="0xlpircy" /></a> </p>
 
-- I’m currently working on 💫 [0rbit](https://github.com/0rbit-co)💫 
+- I’m currently working on 💫 [Veritas](https://veritas-ao.dev)💫 , ex- [0rbit](https://github.com/0rbit-co)
 
-- I’m currently learning **Rust, Lua**
-
-- I’m looking to collaborate on 🫧 [FundArs](https://github.com/fundars) 🫧
+- I’m currently learning **Rust, Erlang**
 
 - 💬 Ask me about **Arweave and AO**
 
-- 📫 How to reach me **taveesha.agarwal@gmail.com**
+- 📫 How to reach me **taveesha.agarwal@gmail.com** or [Calendly](https://calendly.com/taveesha-agarwal/collab-calls)
 
-- ⚡ Fun fact **Im addicted to block coffee!**
+- ⚡ Fun fact **Im addicted to black coffee!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
