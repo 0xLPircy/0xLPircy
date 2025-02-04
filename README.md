@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/0xlpircy" target="blank"><img src="https://img.shields.io/twitter/follow/0xlpircy?logo=twitter&style=for-the-badge" alt="0xlpircy" /></a> </p>
 
-- I’m currently working on 💫 [Veritas](https://veritas-ao.dev)💫 , ex- [0rbit](https://github.com/0rbit-co)
+- I’m currently working on 💫 [Veritas](https://veritas-ao.dev)💫 
+- Previously Founding Team Dev at [0rbit](https://main.d3n1tvbrvhmsjb.amplifyapp.com):- [Playground](https://main.dmtpt16jsav3u.amplifyapp.com), [Github](https://github.com/0rbit-co)
 
 - I’m currently learning **Rust, Erlang**
 
